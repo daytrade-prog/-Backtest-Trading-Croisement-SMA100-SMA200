@@ -9,9 +9,9 @@ Ce projet met en œuvre une **stratégie simple d'analyse technique basée sur l
  La SMA200 (moyenne mobile sur 200 jours)
 
 Logique de la stratégie
- Un signal d'achat (position acheteuse) est généré lorsque la **SMA100 passe au-dessus de la SMA200  
-Un signal de vente (position vendeuse) est généré lorsque la **SMA100 passe en dessous de la SMA200
- La stratégie **prend une seule position à la fois soit en position acheteuse, soit en position vendeuse
+ -Un signal d'achat (position acheteuse) est généré lorsque la **SMA100 passe au-dessus de la SMA200  
+ -Un signal de vente (position vendeuse) est généré lorsque la **SMA100 passe en dessous de la SMA200
+ -La stratégie **prend une seule position à la fois soit en position acheteuse, soit en position vendeuse
 
 
 
@@ -21,10 +21,10 @@ Téléchargement automatique des données historiques de l'eth via `yfinance`
  Génération automatique des signaux d'achat/vente
 
 Technologies utilisées
- Python 3.x
- Pandas
- Numpy
- Jupyter Notebook
+ -Python 3.x
+ -Pandas
+ -Numpy
+ -Jupyter Notebook
 
 
 
